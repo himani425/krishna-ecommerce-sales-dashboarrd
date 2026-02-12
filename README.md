@@ -38,7 +38,7 @@ Sales by Customer
 
 Quarter Selection (Qtr 1 – Qtr 4)
 
-Overall Filters
+states dropdown fliter
 
 🛠 Tools & Technologies Used
 
@@ -78,15 +78,12 @@ Business Insight Generation
 
 https://github.com/himani425/krishna-ecommerce-sales-dashboarrd/blob/main/Screenshot%202026-02-11%20140554.png
 
-📁 Files Included
+📁 project power bi
 
-Power BI (.pbix) file
+https://github.com/himani425/krishna-ecommerce-sales-dashboarrd/blob/main/krishna%20ecommerce%20dash..pbix
 
-Dashboard Screenshot
-
-README Documentation
 
 🚀 Author
 
 Created by Himani Johar
-Aspiring Data Analyst | Power BI | Excel | SQL
+Aspiring Data Analyst | Power BI | Excel
