@@ -76,7 +76,7 @@ Business Insight Generation
 
 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
+Screenshot 2026-02-11 140554.png
 
 📁 Files Included
 
