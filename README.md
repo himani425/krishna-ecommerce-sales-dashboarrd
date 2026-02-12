@@ -76,7 +76,7 @@ Business Insight Generation
 
 📷 Dashboard Preview
 
-Screenshot 2026-02-11 140554.png
+https://github.com/himani425/krishna-ecommerce-sales-dashboarrd/blob/main/Screenshot%202026-02-11%20140554.png
 
 📁 Files Included
 
